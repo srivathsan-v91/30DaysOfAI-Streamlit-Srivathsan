@@ -9,9 +9,21 @@ My personal journey through the #30DaysOfAI challenge with Streamlit and Snowfla
 
 ---
 
-| Folder Name | Description | Contents |
-|-------------|-------------|----------|
-| day_1_connect_snowflake | Connect to Snowflake | streamlit_app.py, pyproject.toml, requirements.txt |
+| Day | Folder ID | Description | Features |
+|-----|-----------|-------------|----------|
+| Day 1 | E_DI78OMJ_6B_C_U | Connect to Snowflake | Basic Snowflake connection setup |
+| Day 2 | H8S2FMNWC_WT8BKF | Hello, Cortex! | Cortex AI model interaction |
+| Day 3 | I3B6H1A2Y6PRO6SI | Write Streams | Streaming text output with st.write_stream() |
+| Day 4 | DU3ZZADCHB7853E1 | Caching Your App | App performance optimization with @st.cache_data |
+| Day 5 | KNT4E1J6VY9GMVPW | LinkedIn Post Generator | Generate social media content using AI |
+| Day 6 | G1LJFY3IQ2IQQVPM | Content Summarization | Summarize text content with Cortex Complete |
+| Day 7 | DFQ70MYH9EQVDP1Z | Repost Generation | Create reposts from original content |
+| Day 8 | YLK1V7VO2CX8A3MV | Multipage Chatbot | Multi-page Streamlit app with chat UI |
+| Day 9 | NI_BJHCMI1GVAWBS | Custom Chatbot | Chat application with session state management |
+| Day 10 | ZVV08FJGLA7QOF7G | Enhanced Chatbot | Advanced chatbot with model selection & TL;DR |
+| Day 11 | M9U8S4CCJRFIY2E0 | Streaming Responses | Real-time streaming chatbot responses |
+
+---
 | day_2_hello_cortex | Hello Cortex AI | streamlit_app.py, pyproject.toml |
 | day_3_write_streams | Write Streams | streamlit_app.py, pyproject.toml |
 | day_4_caching_your_app | Caching Your App | streamlit_app.py, pyproject.toml |
