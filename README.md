@@ -39,17 +39,53 @@ My personal journey through the #30DaysOfAI challenge with Streamlit and Snowfla
 
 ### Key Enhancements Made
 
-**Days 6 & 7 (LinkedIn Post Generator)**
+**Day 1: Connect to Snowflake**
+- ✅ Basic Snowflake connection setup
+- ✅ Authentication handling
+- ✅ Session state initialization
+
+**Day 2: Hello, Cortex!**
+- ✅ Cortex AI model API integration
+- ✅ LLM inference (Claude 3.5 Sonnet)
+- ✅ Text generation capability
+
+**Day 3: Write Streams**
+- ✅ Streaming text output with st.write_stream()
+- ✅ Real-time data display
+- ✅ Text processing and output
+
+**Day 4: Caching Your App**
+- ✅ App performance optimization with @st.cache_data
+- ✅ Duplicate API call elimination
+- ✅ Improved user experience with faster responses
+
+**Day 5: LinkedIn Post Generator**
+- ✅ Generate social media content using AI
+- ✅ Content customization for platforms
+- ✅ Post formatting and display
+
+**Day 6: Content Summarization**
+- ✅ Summarize text content with Cortex Complete
 - ✅ Content summarization alongside post generation
+- ✅ Dynamic content processing
+
+**Day 7: Repost Generation**
+- ✅ Create reposts from original content
 - ✅ Dark mode theming via config.toml
 - ✅ Sidebar layout with Material Design icons
 - ✅ Real-time progress feedback with st.status()
 
-**Days 8 & 9 (Chat Foundation)**
+**Day 8: Multipage Chatbot**
+- ✅ Multi-page Streamlit app structure
 - ✅ Chat UI with st.chat_message() and st.chat_input()
-- ✅ Session State for persistent data
+- ✅ Message display and input handling
 
-**Day 10 (Enhanced Chatbot)**
+**Day 9: Custom Chatbot with Session State**
+- ✅ Chat application with session state management
+- ✅ Session State for persistent data
+- ✅ Conversation history tracking
+
+**Day 10: Enhanced Chatbot**
 - ✅ Model selector dropdown (Claude 3.5 Sonnet / Mistral Large)
 - ✅ Conversation mode selector (General Chat / Code Assistant / Data Analyst / Tech Mentor)
 - ✅ Auto TL;DR summary at 10+ messages using session state counter
@@ -57,7 +93,12 @@ My personal journey through the #30DaysOfAI challenge with Streamlit and Snowfla
 - ✅ Message counter display
 - ✅ Status containers for response generation
 
-### Tech Stack
+**Day 11: Streaming Responses**
+- ✅ Real-time streaming chatbot responses
+- ✅ Word-by-word streaming effect
+- ✅ Smooth, dynamic response display
+- ✅ Live conversation updates
+
 
 - **Streamlit** - Interactive UI framework
 - **Snowflake** - Cloud data platform
