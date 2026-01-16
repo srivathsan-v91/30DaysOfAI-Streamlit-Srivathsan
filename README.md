@@ -7,20 +7,23 @@ My personal journey through the #30DaysOfAI challenge with Streamlit and Snowfla
 
 ### Repository Structure
 
-```
-./
-├── day_01_connect_snowflake.py    # Day 1: Connect to Snowflake
-├── day_02_fetch_data.py            # Day 2: Fetch & Display Data
-├── day_03_dataframe_interaction.py # Day 3: DataFrame Interaction
-├── day_04_plot_chart.py            # Day 4: Plotting Charts
-├── day_05_linkedin_generator.py    # Day 5: LinkedIn Post Generator (Core)
-├── day_06_linkedin_summarizer.py   # Day 6: Content Summarization
-├── day_07_theming_layout.py        # Day 7: Dark Mode Theming
-├── day_08_chat_elements.py         # Day 8: Chat UI Foundation
-├── day_09_session_state.py         # Day 9: Understanding Session State
-├── day_10_chatbot_enhanced.py      # Day 10: Full Chatbot (Enhanced)
-└── README.md                        # This file
-```
+---
+
+| Folder Name | Description | Contents |
+|-------------|-------------|----------|
+| day_1_connect_snowflake | Connect to Snowflake | streamlit_app.py, pyproject.toml, requirements.txt |
+| day_2_hello_cortex | Hello Cortex AI | streamlit_app.py, pyproject.toml |
+| day_3_write_streams | Write Streams | streamlit_app.py, pyproject.toml |
+| day_4_caching_your_app | Caching Your App | streamlit_app.py, pyproject.toml |
+| day_5_linkedin_post_generator | LinkedIn Post Generator | streamlit_app.py, pyproject.toml |
+| day_6_content_summary | Content Summarization | streamlit_app.py, pyproject.toml |
+| day_7_repost_generation | Repost Generation | streamlit_app.py, pyproject.toml |
+| day_8_multipage_chatbot | Multipage Chatbot | streamlit_app.py, pyproject.toml |
+| day_9_understanding_session_state | Session State Management | streamlit_app.py, pyproject.toml |
+| day_10_enhanced_chatbot | Enhanced Chatbot | streamlit_app.py, pyproject.toml |
+| day_11_streaming_responses | Streaming Responses | streamlit_app.py, pyproject.toml |
+
+---
 
 ### Key Enhancements Made
 
