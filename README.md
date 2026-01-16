@@ -56,8 +56,7 @@ My personal journey through the #30DaysOfAI challenge with Streamlit and Snowfla
 - [x] Day 6-7: Content Summarization & Theming
 - [x] Day 8-9: Chat Elements & Session State
 - [x] Day 10: Enhanced Chatbot
-- [ ] Day 11-30: Coming soon...
-
+- [x] Day 11: Streaming Responses
 ### How to Use
 
 Each Python file is a standalone Streamlit app. To run:
@@ -79,4 +78,4 @@ streamlit run day_10_chatbot_enhanced.py
 **Challenge**: #30DaysOfAI  
 **Author**: Srivathsan V  
 **Company**: EY #EYAllIn  
-**Last Updated**: January 11, 2026
+**Last Updated**: January 16, 2026
